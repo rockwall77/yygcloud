@@ -1,6 +1,7 @@
 #
-妖月阁最新发布页
+妖月阁最新发布页：
 #
-官网域名：https://yycloud.org
+官网地址：https://yycloud.org
+#
 电报组织群组：https://t.me/yaoyuege
-
+#更新07/07/22
